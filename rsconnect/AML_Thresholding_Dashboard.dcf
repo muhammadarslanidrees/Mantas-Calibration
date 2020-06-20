@@ -1,0 +1,13 @@
+name: AML_Thresholding_Dashboard
+title: AML_Thresholding_Dashboard
+username:
+account: muhammad-arslan-siddiqui
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 385461
+bundleId: 3296363
+url: https://muhammad-arslan-siddiqui.shinyapps.io/AML_Thresholding_Dashboard/
+when: 1592685794.89168
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: IND.xlsx
