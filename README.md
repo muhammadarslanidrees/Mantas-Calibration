@@ -9,3 +9,13 @@ This project is based on Calibration of Oracle FCCM Mantas and development of to
 This app will serve as a template only with dummy data and information is hidden due to confidentiality. To get started, select the relevant tab in the sidepanel.
 
 © 2018 By Muhammad Arslan.
+
+# Demo
+
+1. Access the app using link: https://muhammad-arslan-siddiqui.shinyapps.io/AML_Thresholding_Dashboard/
+
+2. Upload data.csv on the app under sidepanel "Thresholding" -> data
+
+3. Explore the app (distributions, dygraphs, statistics etc.)
+
+
